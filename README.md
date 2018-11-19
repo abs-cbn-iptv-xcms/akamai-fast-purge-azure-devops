@@ -1,2 +1,2 @@
-# akamai-fast-purge-azure-devops
-Fast past extension for Azure Devops
+## Generate vsix command
+tfx extension create
