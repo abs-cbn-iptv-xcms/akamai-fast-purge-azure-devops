@@ -75,7 +75,7 @@
       }
     ],
     "execution": {
-      "PowerShell": {
+      "PowerShell3": {
         "target": "$(currentDirectory)\\akamai-fast-purge.ps1",
         "argumentFormat": "",
         "workingDirectory": "$(currentDirectory)"
